@@ -7,20 +7,12 @@ hide_description: true
 # 欢迎光临 🎉🎉🎉
 您好，欢迎光临，这里是小马的杂货铺，我的个人博客。
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown, with my own editor, one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+关于我，一名教育科技行业的产品经理，带领团队从0到1研发多款教育产品。入行以来接触过从小学到中学，再到高职和大学，累计超过100所学校。热爱教育，努力在教育行业做出更多探索。
 
-## First Steps
-Please start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+[Blog](/blog/) --- 我的博客，个人的所思所想都在这里。
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
+[Projects](/projects/) --- 我都项目经历，我做过的事情。
 
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
+[Resume](/resume/) --- 我的简历，可以更多了解我。
+## 推荐阅读
+这里还需稍等片刻。

@@ -62,7 +62,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © All rights reserved. Power by jekyll.
+copyright:             © All rights reserved. Power by Jekyll.
 
 # Format of the permalinks
 # permalink:             /blog/:categories/:year-:month-:day-:title/
