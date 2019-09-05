@@ -2,12 +2,12 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
+  name: "马浚（Jony） "
+  label: "Product Manager"
   picture: "/assets/icons/icon.png"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  email: "me@jonym.com"
+  phone: 
+  website: "https://jonym.github.io"
   summary: >
     Richard hails from Tulsa.
     He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
@@ -19,23 +19,23 @@ basics:
     He could tell you about it, but THAT would NOT be a “length-limited” conversation!
     Open `_data/resume.yml` to edit this text.
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
-    countryCode: "US"
-    region: "California"
+    address: 
+    postalCode: 
+    city: "北京"
+    countryCode: 
+    region: 
   profiles:
-    - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
+    # - network: "Twitter"
+    #   username: "RHendricksCEO"
+    #   url: ""
     - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
+      username: "马浚"
+      url: "https://www.linkedin.com/in/%E6%B5%9A-%E9%A9%AC-b29b0a99/"
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
+  - company: "希悦校园"
+    position: "产品总监/客户成功总监"
+    website: "http://www.seiue.com/"
+    startDate: "2016-10-01"
     endDate: ""
     summary: >
       Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
