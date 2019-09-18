@@ -1,16 +1,23 @@
 ---
 layout: project
-title: '个人博客'
+title: '个人播客——小马的杂货铺'
 date: 01 Oct 2016
 image: /assets/img/projects/litchifm.jpg
 screenshot: /assets/img/projects/litchifm-2.png
-caption: 小马的杂货铺
+caption: 荔枝FM
 description: >
   个人播客电台
 ---
 
-**新道VBSE创业基础实训平台**是新道V系列产品中的一款。所谓VBSE是指虚拟商业社会环境，其产品口号是把企业搬进校园，也就是在校园中虚拟企业经营的环境，模拟企业经营业务，达到让学生认知企业，了解企业的目的。而创业基础实训平台是在“大众创业、万众创新”的背景下开发的，通过模拟企业从0到1的过程，让学生了解创业的基础知识，并且模拟推演和完善创业项目。
+**个人播客——小马的杂货铺**是自2016年全年运营的个人自媒体项目，每周日晚9点更新，共制作50期，累计收听超万次。
+运营过程中主要涉及以下工作：
 
-该项目是我正式工作后接触的第一个项目，先后参与开发了V1.0、V1.1、V2.0三个版本，从V1.1开始担任项目负责人。
+1.利用开源框架Pelican,搭建个人博客网站，并部署在阿里云中。
 
-> **相关链接**：[新道VBSE创业基础实训平台](http://www.seentao.com/service/chuangye_jichu.html)
+2.利用Markdown工具撰写博文并部署至网站，利用Github进行版本管理。
+
+3.利用Adobe Au进行节目的录制与剪辑，并发布在荔枝FM中，频段号：FM1282762。
+
+4.维护微信公众号。
+
+> **相关链接**：[荔枝FM电台主页](https://www.lizhi.fm/user/2511410557570337324)、[Github博客文章](https://github.com/jonym/jonym.github.io_1.0)
