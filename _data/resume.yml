@@ -9,21 +9,18 @@ basics:
   phone: 
   website: "https://jonym.github.io"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+    各位好，我是小马，一名教育科技行业的产品经理，也是一名客户成功经理。目前任职于希悦校园。
+    
+    从2014年入行以来，服务从小学到大学超过100所学校，了解市场和客户，对行业有极高热情，期待能做出影响教育行业的产品。
+
+    这里是我的个人博客，会记录我学习、生活和工作的感悟，感谢您的光临。
+
   location:
-    address: 
-    postalCode: 
+    # address: 
+    # postalCode: 
     city: "北京"
-    countryCode: 
-    region: 
+    # countryCode: 
+    region: "海淀"
   profiles:
     # - network: "Twitter"
     #   username: "RHendricksCEO"
@@ -31,73 +28,73 @@ basics:
     - network: "LinkedIn"
       username: "马浚"
       url: "https://www.linkedin.com/in/%E6%B5%9A-%E9%A9%AC-b29b0a99/"
-work:
-  - company: "希悦校园"
-    position: "产品总监/客户成功总监"
-    website: "http://www.seiue.com/"
-    startDate: "2016-10-01"
-    endDate: ""
-    summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
-    highlights:
-      - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
-volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
-    highlights:
-      - "Awarded 'Teacher of the Month'"
-education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
-    studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
-    gpa: "4.0"
-    courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
-awards:
-  - title: "Digital Compression Pioneer Award"
-    date: "2014-11-01"
-    awarder: "Techcrunch"
-    summary: "There is no spoon."
-publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
-skills:
-  - name: "Web Development"
-    level: "Master"
-    keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "Compression"
-    level: "Master"
-    keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
-languages:
-  - language: "English"
-    fluency: "Native speaker"
-interests:
-  - name: "Wildlife"
-    keywords:
-      - "Ferrets"
-      - "Unicorns"
-references:
-  - name: "Erlich Bachman"
-    reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+# work:
+#   - company: "希悦校园"
+#     position: "产品总监/客户成功总监"
+#     website: "http://www.seiue.com/"
+#     startDate: "2016-10-01"
+#     endDate: ""
+#     summary: >
+#       Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
+#       consistently fielded high Weisman Scores™ that are not merely competitive,
+#       but approach the theoretical limit of lossless compression.
+#     highlights:
+#       - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
+#       - "Successfully won Techcrunch Disrupt"
+#       - "Optimized an algorithm that holds the current world record for Weisman Scores"
+# volunteer:
+#   - organization: "CoderDojo"
+#     position: "Teacher"
+#     website: "https://coderdojo.com/"
+#     startDate: "2012-01-01"
+#     endDate: "2013-01-01"
+#     summary: "Global movement of free coding clubs for young people."
+#     highlights:
+#       - "Awarded 'Teacher of the Month'"
+# education:
+#   - institution: "University of Oklahoma"
+#     area: "Information Technology"
+#     studyType: "Bachelor"
+#     startDate: "2011-06-01"
+#     endDate: "2014-01-01"
+#     gpa: "4.0"
+#     courses:
+#       - "DB1101 - Basic SQL"
+#       - "CS2011 - Java Introduction"
+# awards:
+#   - title: "Digital Compression Pioneer Award"
+#     date: "2014-11-01"
+#     awarder: "Techcrunch"
+#     summary: "There is no spoon."
+# publications:
+#   - name: "Video compression for 3d media"
+#     publisher: "Hooli"
+#     releaseDate: "2014-10-01"
+#     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+#     summary: "Innovative middle-out compression algorithm that changes the way we store data."
+# skills:
+#   - name: "Web Development"
+#     level: "Master"
+#     keywords:
+#       - "HTML"
+#       - "CSS"
+#       - "Javascript"
+#   - name: "Compression"
+#     level: "Master"
+#     keywords:
+#       - "Mpeg"
+#       - "MP4"
+#       - "GIF"
+# languages:
+#   - language: "English"
+#     fluency: "Native speaker"
+# interests:
+#   - name: "Wildlife"
+#     keywords:
+#       - "Ferrets"
+#       - "Unicorns"
+# references:
+#   - name: "Erlich Bachman"
+#     reference: >
+#       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+#       Company proved that he will be a valuable addition to any company.

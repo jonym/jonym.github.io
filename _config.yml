@@ -50,7 +50,7 @@ menu:
     url:               /blog/
   - title:             Projects
     url:               /projects/
-  - title:             Resume
+  - title:             About
     url:               /resume/
 
 # Add links to the footer.
